@@ -69,3 +69,13 @@ body {
   text-decoration: none;
   color: aquamarine;
 }
+.github{
+  padding-top: 800px;
+  color: black;
+  font-weight: 600;
+  font-size: 30px;
+  margin: 100px -30px 0px 600px;
+}
+.transparent{
+  opacity: 0.0;
+}
